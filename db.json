@@ -1,31 +1,52 @@
 {
-  "posts": [
+  [
     {
-      "id": 1,
-      "title": "Post 1"
+      "name" : "Alexandr", 
+      "surname" : "Shevchenko", 
+      "email": "a.shevchenko@gmail.com", 
+      "phoneNumber": "+79123456789"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "name" : "Daria", 
+      "surname" : "Petrovna", 
+      "email" : "daria@gmail.com", 
+      "phoneNumber" : "+79876543210"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "name" : "Ivan", 
+      "surname" : "Ivanov", 
+      "email" : "ivan@gmail.com", 
+      "phoneNumber" : "+79012345678"
+    },
+    {
+      "name" : "Maria", 
+      "surname" : "Kuznetsova", 
+      "email" : "maria@gmail.com", 
+      "phoneNumber" : "+79987654321"
+    },
+    {
+      "name" : "Petr", 
+      "surname" : "Petrov", 
+      "email" : "petr@gmail.com", 
+      "phoneNumber" : "+79543210987"
+    },
+    {
+      "name" : "Sofia", 
+      "surname" : "Ivanova", 
+      "email" : "sofia@gmail.com", 
+      "phoneNumber" : "+79654321098"
+    },
+    {
+      "name" : "Valeria", 
+      "surname" : "Ponomariova", 
+      "email" : "valeria@gmail.com", 
+      "phoneNumber" : "+79765432109"
+    },
+    {
+      "name" : "Andrey", 
+      "surname" : "Semenov", 
+      "email" : "andrey@gmail.com", 
+      "phoneNumber" : "+79432109876"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
